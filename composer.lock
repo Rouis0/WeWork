@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3a709628f18767e57c5d407418b611b2",
-    "content-hash": "6166c9a00a42bce0f7031dbfad5dcee7",
+    "hash": "60d8c641f0d5e814e5b774fb9afce3b1",
+    "content-hash": "fa13e29318fb46370445bd28a941d731",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -287,16 +287,16 @@
         },
         {
             "name": "rouis/tencent_api",
-            "version": "v1.0.0",
+            "version": "v1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Rouis0/TencentApi.git",
-                "reference": "b65244689b45f7acfd44270e7146004c1685bdaf"
+                "reference": "91054954eaa1355f07a31218a7688e1a3a842bb4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Rouis0/TencentApi/zipball/b65244689b45f7acfd44270e7146004c1685bdaf",
-                "reference": "b65244689b45f7acfd44270e7146004c1685bdaf",
+                "url": "https://api.github.com/repos/Rouis0/TencentApi/zipball/91054954eaa1355f07a31218a7688e1a3a842bb4",
+                "reference": "91054954eaa1355f07a31218a7688e1a3a842bb4",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -315,6 +315,9 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
             "authors": [
                 {
                     "name": "Jim",
@@ -322,7 +325,13 @@
                 }
             ],
             "description": "a abtract tool about tencent's api",
-            "time": "2018-07-27 02:27:10"
+            "keywords": [
+                "api",
+                "mail",
+                "tencent",
+                "wework"
+            ],
+            "time": "2018-07-27 06:00:58"
         }
     ],
     "packages-dev": [],
