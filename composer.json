@@ -1,6 +1,7 @@
 {
     "name": "rouis/wework",
     "keywords": ["wework", "api", "wechat"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Jim",
